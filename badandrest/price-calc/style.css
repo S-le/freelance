@@ -1,0 +1,14 @@
+.has-discount-price > .t-calc,
+.has-discount-price > .t-calc__postfix-text {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.t-calc,
+.t-calc__postfix-text {
+  margin-left: 0.3rem;
+}
+
+.uc-price-calc-option .t-checkbox__control.t-text {
+  font-size: 18px;
+}
